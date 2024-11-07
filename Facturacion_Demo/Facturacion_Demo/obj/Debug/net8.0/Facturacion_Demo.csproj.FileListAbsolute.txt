@@ -28,3 +28,4 @@ D:\PROYECTOS GRUPALES\User_Facturacion\Facturacion_Demo\Facturacion_Demo\obj\Deb
 D:\PROYECTOS GRUPALES\User_Facturacion\Facturacion_Demo\Facturacion_Demo\obj\Debug\net8.0\Facturacion_Demo.pdb
 D:\PROYECTOS GRUPALES\User_Facturacion\Facturacion_Demo\Facturacion_Demo\obj\Debug\net8.0\Facturacion_Demo.genruntimeconfig.cache
 D:\PROYECTOS GRUPALES\User_Facturacion\Facturacion_Demo\Facturacion_Demo\obj\Debug\net8.0\ref\Facturacion_Demo.dll
+D:\PROYECTOS GRUPALES\User_Facturacion\Facturacion_Demo\Facturacion_Demo\obj\Debug\net8.0\Facturacion_Demo.sourcelink.json

@@ -9,6 +9,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{0E070D33-7E9E-4648-A666-FE2FDDC42A57}|Facturacion_Demo\\Facturacion_Demo.csproj|d:\\proyectos grupales\\user_facturacion\\facturacion_demo\\facturacion_demo\\views\\complementopago\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0E070D33-7E9E-4648-A666-FE2FDDC42A57}|Facturacion_Demo\\Facturacion_Demo.csproj|solutionrelative:facturacion_demo\\views\\complementopago\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E070D33-7E9E-4648-A666-FE2FDDC42A57}|Facturacion_Demo\\Facturacion_Demo.csproj|d:\\proyectos grupales\\user_facturacion\\facturacion_demo\\facturacion_demo\\controllers\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E070D33-7E9E-4648-A666-FE2FDDC42A57}|Facturacion_Demo\\Facturacion_Demo.csproj|solutionrelative:facturacion_demo\\controllers\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "D:\\PROYECTOS GRUPALES\\User_Facturacion\\Facturacion_Demo\\Facturacion_Demo\\Controllers\\Factura.cs",
+              "RelativeDocumentMoniker": "Facturacion_Demo\\Controllers\\Factura.cs",
+              "ToolTip": "D:\\PROYECTOS GRUPALES\\User_Facturacion\\Facturacion_Demo\\Facturacion_Demo\\Controllers\\Factura.cs",
+              "RelativeToolTip": "Facturacion_Demo\\Controllers\\Factura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T01:24:08.184Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -28,7 +45,7 @@
               "RelativeDocumentMoniker": "Facturacion_Demo\\Views\\ComplementoPago\\Index.cshtml",
               "ToolTip": "D:\\PROYECTOS GRUPALES\\User_Facturacion\\Facturacion_Demo\\Facturacion_Demo\\Views\\ComplementoPago\\Index.cshtml",
               "RelativeToolTip": "Facturacion_Demo\\Views\\ComplementoPago\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-07T00:59:37.448Z",
               "EditorCaption": ""
@@ -39,9 +56,9 @@
               "Title": "IndexFactura.cshtml",
               "DocumentMoniker": "D:\\PROYECTOS GRUPALES\\User_Facturacion\\Facturacion_Demo\\Facturacion_Demo\\Views\\Factura\\IndexFactura.cshtml",
               "RelativeDocumentMoniker": "Facturacion_Demo\\Views\\Factura\\IndexFactura.cshtml",
-              "ToolTip": "D:\\PROYECTOS GRUPALES\\User_Facturacion\\Facturacion_Demo\\Facturacion_Demo\\Views\\Factura\\IndexFactura.cshtml*",
-              "RelativeToolTip": "Facturacion_Demo\\Views\\Factura\\IndexFactura.cshtml*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "ToolTip": "D:\\PROYECTOS GRUPALES\\User_Facturacion\\Facturacion_Demo\\Facturacion_Demo\\Views\\Factura\\IndexFactura.cshtml",
+              "RelativeToolTip": "Facturacion_Demo\\Views\\Factura\\IndexFactura.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACsAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-07T00:56:59.501Z",
               "EditorCaption": ""
