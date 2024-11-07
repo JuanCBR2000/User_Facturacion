@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="row">
+    <div class="col-sm-6">
+        <div class="card">
+            <div class="card-body text-center">
+                <a asp-area="" asp-controller="Factura" asp-action="IndexFactura" class="btn btn-primary ">Facturacion</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-6">
+        <div class="card">
+            <div class="card-body text-center">
+                <a asp-area="" asp-controller="ComplementoPago" asp-action="Index" class="btn btn-primary ">Complemento de Pago</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-6 mt-3">
+        <div class="card">
+            <div class="card-body text-center">
+                <a asp-area="" asp-controller="Home" asp-action="Index" class="btn btn-primary ">Cancelaciones</a>
+            </div>
+        </div>
+    </div>
+</div>
